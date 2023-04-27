@@ -1,4 +1,4 @@
-import { Usuario } from "../dominio";
+import { Usuario } from "../servico/dominio";
 import UsuarioDB from "../../entity/usuario";
 import { Repository } from "typeorm";
 
