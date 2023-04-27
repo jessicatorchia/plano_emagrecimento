@@ -1,0 +1,26 @@
+[
+  {
+    "id": 640,
+    "nome": "Fulano",
+    "idade": 30,
+    "altura": 1,
+    "peso": 75,
+    "objetivo": "ganhar massa muscular"
+  },
+  {
+    "id": 641,
+    "nome": "Fulano2",
+    "idade": 30,
+    "altura": 2,
+    "peso": 75,
+    "objetivo": "ganhar massa muscular"
+  },
+  {
+    "id": 642,
+    "nome": "Fulano3",
+    "idade": 30,
+    "altura": 3,
+    "peso": 75,
+    "objetivo": "perder peso"
+  }
+]
